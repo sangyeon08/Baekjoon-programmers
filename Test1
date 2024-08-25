@@ -1,0 +1,7 @@
+import java.util.*;
+public class Main{
+  public static void main(Sting[] args){
+    System.out.print("지금 하고 싶은 말 :);
+    String a = sc.nextLIne();
+
+    System.out.println(a);
