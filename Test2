@@ -1,0 +1,7 @@
+public class Main{
+  public static void main(String[] args){
+    String a = "백준 커밋 테스트";
+    int b = 100;
+      System.out.println(a + b);
+  }
+}
