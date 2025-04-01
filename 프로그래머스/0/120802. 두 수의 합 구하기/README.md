@@ -1,10 +1,10 @@
 # [level 0] 두 수의 합 구하기 - 120802 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120802?language=go) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120802?language=swift) 
 
 ### 성능 요약
 
-메모리: 4.14 MB, 시간: 0.00 ms
+메모리: 16.3 MB, 시간: 0.02 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 03월 30일 22:49:59
+2025년 04월 02일 00:26:00
 
 ### 문제 설명
 
