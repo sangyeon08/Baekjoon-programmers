@@ -1,15 +1,5 @@
+from collections import Counter
+
 def solution(array):
-	count = [0] * (max(array)+1) 
-
-	for i in array:
-		count[i] += 1
-
-	m = 0
-	for c in count:
-		if c == max(count):
-			m += 1
-    
-	if m > 1:
-		return -1
-	else:
-		return count.index(max(count))
+    a = Counter(array).most_common(2)
+    return -1 if len(a) > 1 and a[0][1] == a[1][1] else a[0][0]
