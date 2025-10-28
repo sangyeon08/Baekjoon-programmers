@@ -1,10 +1,10 @@
 # [level 0] 삼각형의 완성조건 (1) - 120889 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120889?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120889?language=javascript) 
 
 ### 성능 요약
 
-메모리: 9.12 MB, 시간: 0.00 ms
+메모리: 33.4 MB, 시간: 0.05 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 10월 25일 22:05:38
+2025년 10월 28일 23:16:07
 
 ### 문제 설명
 
